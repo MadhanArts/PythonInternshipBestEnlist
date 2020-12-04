@@ -1,0 +1,11 @@
+[
+  [
+    {"name": "Madhan", "age": 20, "city": "chennai"},
+    [1, 2, 4, 3],
+    [1, 2, 3, 4],
+    "Education",
+    20,
+    95.5,
+    true,
+    null]
+]
